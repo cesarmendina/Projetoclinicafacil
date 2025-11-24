@@ -2,8 +2,8 @@
   # ProjetoClinicaFacil
   
   ## 👥 Integrantes
-- ** Cynthia **  
-- ** César Mendina ** 
+- Cynthia 
+- César Mendina
 
 
   
