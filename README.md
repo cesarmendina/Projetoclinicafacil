@@ -2,8 +2,8 @@
   # ProjetoClinicaFacil
   
   ## 👥 Integrantes
-- Cynthia 
-- César Mendina
+- CYNTHIA CHIRINO DE ALMEIDA
+- CÉSAR ROQUE MENDINA
 
 
   
